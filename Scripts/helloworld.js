@@ -1,4 +1,3 @@
-function helloWorld() {
-	alert('hello world');
-	alert('hello world 2');
+function loadData() {
+	var data = ['row1', 'row2'];
 }
